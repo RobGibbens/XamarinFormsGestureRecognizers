@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="Android.Nexus5" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/AppDelegate.cs">
+    <Files>
+      <File FileName="XamarinFormsGestureRecognizers/App.cs" Line="6" Column="3" />
+      <File FileName="iOS/AppDelegate.cs" Line="24" Column="2" />
+      <File FileName="Android/FancyLabelRenderer.cs" Line="11" Column="40" />
+      <File FileName="Android/FancyGestureListener.cs" Line="25" Column="3" />
+      <File FileName="Android/MainActivity.cs" Line="10" Column="51" />
+      <File FileName="iOS/Main.cs" Line="1" Column="1" />
+      <File FileName="iOS/FancyIosLabelRenderer.cs" Line="11" Column="2" />
+      <File FileName="XamarinFormsGestureRecognizers/FancyLabel.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

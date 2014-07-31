@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "XamarinFormsGestureRecognizers", "XamarinFormsGestureRecognizers\XamarinFormsGestureRecognizers.shproj", "{F4EECB7B-1CB5-48FD-ADA2-54639E2FCF4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinFormsGestureRecognizers.iOS", "iOS\XamarinFormsGestureRecognizers.iOS.csproj", "{AB4F323A-543C-406D-9BE5-9AD6C9E6BE5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinFormsGestureRecognizers.Droid", "Android\XamarinFormsGestureRecognizers.Droid.csproj", "{BB0F884B-F841-4551-B921-C86581AEB5FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB4F323A-543C-406D-9BE5-9AD6C9E6BE5A}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{AB4F323A-543C-406D-9BE5-9AD6C9E6BE5A}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{AB4F323A-543C-406D-9BE5-9AD6C9E6BE5A}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{AB4F323A-543C-406D-9BE5-9AD6C9E6BE5A}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{AB4F323A-543C-406D-9BE5-9AD6C9E6BE5A}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
+		{AB4F323A-543C-406D-9BE5-9AD6C9E6BE5A}.Debug|Any CPU.Build.0 = Debug|iPhoneSimulator
+		{AB4F323A-543C-406D-9BE5-9AD6C9E6BE5A}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{AB4F323A-543C-406D-9BE5-9AD6C9E6BE5A}.Debug|iPhone.Build.0 = Debug|iPhone
+		{AB4F323A-543C-406D-9BE5-9AD6C9E6BE5A}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{AB4F323A-543C-406D-9BE5-9AD6C9E6BE5A}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{AB4F323A-543C-406D-9BE5-9AD6C9E6BE5A}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
+		{AB4F323A-543C-406D-9BE5-9AD6C9E6BE5A}.Release|Any CPU.Build.0 = Release|iPhoneSimulator
+		{AB4F323A-543C-406D-9BE5-9AD6C9E6BE5A}.Release|iPhone.ActiveCfg = Release|iPhone
+		{AB4F323A-543C-406D-9BE5-9AD6C9E6BE5A}.Release|iPhone.Build.0 = Release|iPhone
+		{AB4F323A-543C-406D-9BE5-9AD6C9E6BE5A}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{AB4F323A-543C-406D-9BE5-9AD6C9E6BE5A}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{BB0F884B-F841-4551-B921-C86581AEB5FF}.Ad-Hoc|iPhone.ActiveCfg = Release|Any CPU
+		{BB0F884B-F841-4551-B921-C86581AEB5FF}.Ad-Hoc|iPhone.Build.0 = Release|Any CPU
+		{BB0F884B-F841-4551-B921-C86581AEB5FF}.AppStore|iPhone.ActiveCfg = Release|Any CPU
+		{BB0F884B-F841-4551-B921-C86581AEB5FF}.AppStore|iPhone.Build.0 = Release|Any CPU
+		{BB0F884B-F841-4551-B921-C86581AEB5FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0F884B-F841-4551-B921-C86581AEB5FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0F884B-F841-4551-B921-C86581AEB5FF}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{BB0F884B-F841-4551-B921-C86581AEB5FF}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{BB0F884B-F841-4551-B921-C86581AEB5FF}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{BB0F884B-F841-4551-B921-C86581AEB5FF}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{BB0F884B-F841-4551-B921-C86581AEB5FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0F884B-F841-4551-B921-C86581AEB5FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB0F884B-F841-4551-B921-C86581AEB5FF}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{BB0F884B-F841-4551-B921-C86581AEB5FF}.Release|iPhone.Build.0 = Release|Any CPU
+		{BB0F884B-F841-4551-B921-C86581AEB5FF}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{BB0F884B-F841-4551-B921-C86581AEB5FF}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Android\XamarinFormsGestureRecognizers.Droid.csproj
+	EndGlobalSection
+EndGlobal
