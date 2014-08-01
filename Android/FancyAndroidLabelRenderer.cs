@@ -32,6 +32,7 @@ namespace XamarinFormsGestureRecognizers.Droid
 					this.Touch -= HandleTouch;
 				}
 			}
+
 			if (e.OldElement == null) {
 				this.GenericMotion += HandleGenericMotion;
 				this.Touch += HandleTouch;
