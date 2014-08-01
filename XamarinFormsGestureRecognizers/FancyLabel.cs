@@ -2,7 +2,5 @@
 
 namespace XamarinFormsGestureRecognizers
 {
-	public class FancyLabel : Label
-	{
-	}
+	public class FancyLabel : Label {}
 }

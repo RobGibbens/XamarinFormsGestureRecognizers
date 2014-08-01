@@ -59,8 +59,8 @@
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="FancyLabelRenderer.cs" />
     <Compile Include="FancyGestureListener.cs" />
+    <Compile Include="FancyAndroidLabelRenderer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
