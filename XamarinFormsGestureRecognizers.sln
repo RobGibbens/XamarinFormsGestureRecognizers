@@ -52,7 +52,4 @@ Global
 		{BB0F884B-F841-4551-B921-C86581AEB5FF}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{BB0F884B-F841-4551-B921-C86581AEB5FF}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = iOS\XamarinFormsGestureRecognizers.iOS.csproj
-	EndGlobalSection
 EndGlobal
